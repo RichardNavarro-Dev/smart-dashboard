@@ -1,2 +1,3 @@
-# smart-dashboard
-UI concept for a real-time AI Dashboard.
+# Smart Dashboard 📊
+Front-end concept for Sovraxion Tech Labs projects.
+Built with React + Firebase (future implementation).
